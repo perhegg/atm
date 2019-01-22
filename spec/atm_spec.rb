@@ -1,7 +1,7 @@
 require './lib/atm.rb'
 require 'date'
 
-describe ATM do 
+describe Atm do 
   
     let(:account) { instance_double('Account') }
 
