@@ -15,3 +15,11 @@ I want to allow a withdrawal only if there are sufficient funds in the account
 As a ATM operator
 In order for our costumers to withdraw funds
 I need make sure that <br> we only allow withdrawals if there are funds available
+
+As a Customer
+In order to keep my funds secure
+I want a secure Pin code & an expiry date <br> on my card that allows only me access to my funds
+
+As a ATM operator             
+In order to allow access active customers             
+I want to allow withdrawals from only active accounts
